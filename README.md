@@ -45,6 +45,8 @@ I was solely responsible for building the complete application from scratch, inc
 
 * Dev Tools: Postman for API testing, Git & GitHub for version control
 
+<hr/>
+
 <h1><b>Challenges Overcome:</b></h1>
 
 <h3>Real-time Communication:</h3>
@@ -59,6 +61,8 @@ Ensuring that chat history loads correctly when a user switches between differen
 <h3>Frontend State Management:</h3>
 Managing chat state, selected user, and message lists across components without introducing bugs required proper use of React Context and useEffect hooks.
 
-<h1><b>Web Preview:</b></h1>
-![Screenshot 2025-06-16 004109](https://github.com/user-attachments/assets/0d5112a4-092d-4332-a969-3fe92b9f868c)
+<hr/>
+
+<h1><b>Screensort:</b></h1>
+
 ![Screenshot 2025-06-16 004109](https://github.com/user-attachments/assets/0d5112a4-092d-4332-a969-3fe92b9f868c)
